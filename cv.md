@@ -30,7 +30,7 @@ export function CocktailsRecipesList() {
 - HTML Academy Courses 
 - Freelance websites development practice
 
-##Education
+## Education
 - General secondary education
 - Partially completed higher education (Moscow, Russia, Plekhanov Russian University of Economics, PR and Marketing Programme)
 - Bachelor's Degree in International Relations and Area Studies (Cracow, Poland, Jagiellonian University)
