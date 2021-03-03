@@ -27,7 +27,8 @@ export function CocktailsRecipesList() {
 ```
 
 ## Experience
-- HTML Academy
+- HTML Academy Courses 
+- Freelance websites development practice
 
 ##Education
 - General secondary education
