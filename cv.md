@@ -8,7 +8,7 @@ title: Iuliia's Andrusenko CV
 I have been passionate about websites development since middle school, however I only started learning about it recently. I have finished some online courses on HTML, CSS and websites layout instruments as well as learnt JavaScript and I am currently learning React JS Framework. I have been working on developing some websites in my spare time to practice my skills. I have not yet had a real work experience apart from helping with websites development or creating website layouts with basic functionality, however, I am practicing everyday on my own to learn more about sites functionality and instruments I can use. My goal is to learn as much as possible to make eye-catching and functional websites. Whenever I start working on something new I always try to learn as quick as I can to achieve the best results and I always do my best to succeed in the task. 
 
 ## Skills
-JavaScrips, React JS, HTML, CSS
+JavaScript, React JS, HTML, CSS
 
 ## Code example
 ```
